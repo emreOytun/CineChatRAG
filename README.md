@@ -4,6 +4,12 @@ This project is a Flask-based web application that provides movie recommendation
 
 ---
 
+# Live
+
+You can play with the testbot with the link below.
+Note that it requires 1 minute to startup after trigger because it goes idle when it is not used.
+https://cinechatrag.onrender.com/
+
 ## Features
 
 - **Movie Recommendations:** Suggests movies based on user input and retrieves relevant titles with detailed metadata.
